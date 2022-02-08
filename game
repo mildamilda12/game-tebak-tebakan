@@ -316,6 +316,5 @@ for percobaan in range(batas_percobaan):
     hg =
     if(gh == hg):
         print("bagus sekali!!!")
-        again18
     else:
         print("maaf jawaban kamu belum tepat!!ayoo coba lagi").
